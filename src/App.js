@@ -11,6 +11,7 @@ function shuffle(array) {
   }
   return array;
 }
+
 //Using Method class / extends for more features with react
 class App extends Component{
   //setting the 'state'
