@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/click-game/static/css/main.dc64fcbc.chunk.css",
+    "main.js": "/click-game/static/js/main.03b36dc4.chunk.js",
+    "main.js.map": "/click-game/static/js/main.03b36dc4.chunk.js.map",
+    "runtime-main.js": "/click-game/static/js/runtime-main.46fbd14d.js",
+    "runtime-main.js.map": "/click-game/static/js/runtime-main.46fbd14d.js.map",
+    "static/js/2.0e3fa562.chunk.js": "/click-game/static/js/2.0e3fa562.chunk.js",
+    "static/js/2.0e3fa562.chunk.js.map": "/click-game/static/js/2.0e3fa562.chunk.js.map",
+    "index.html": "/click-game/index.html",
+    "precache-manifest.59bbb8427356a07e4a14cf9e5c72da4a.js": "/click-game/precache-manifest.59bbb8427356a07e4a14cf9e5c72da4a.js",
+    "service-worker.js": "/click-game/service-worker.js",
+    "static/css/main.dc64fcbc.chunk.css.map": "/click-game/static/css/main.dc64fcbc.chunk.css.map",
+    "static/js/2.0e3fa562.chunk.js.LICENSE.txt": "/click-game/static/js/2.0e3fa562.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46fbd14d.js",
+    "static/js/2.0e3fa562.chunk.js",
+    "static/css/main.dc64fcbc.chunk.css",
+    "static/js/main.03b36dc4.chunk.js"
+  ]
+}
