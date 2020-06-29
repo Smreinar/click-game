@@ -1,77 +1,77 @@
 [
     {
         "id": 1,
-        "image":"/assets/images/boo.png",
+        "image":"/click-game/assets/images/boo.png",
         "name":"Boo"
     },
     {
         "id": 2,
-        "image":"/assets/images/bowser.jpg",
+        "image":"/click-game/assets/images/bowser.jpg",
         "name":"Bowser"
     },
     {
         "id": 3,
-        "image":"/assets/images/bowser_jr.jpg",
+        "image":"/click-game/assets/images/bowser_jr.jpg",
         "name":"Bowser Jr."
     },
     {
         "id": 4,
-        "image":"/assets/images/daisy.jpg",
+        "image":"/click-game/assets/images/daisy.jpg",
         "name":"Daisy"
     },
     {
         "id": 5,
-        "image":"/assets/images/diddy_kong.jpg",
+        "image":"/click-game/assets/images/diddy_kong.jpg",
         "name":"Diddy Kong"
     },
     {
         "id": 6,
-        "image":"/assets/images/donkey_kong.jpg",
+        "image":"/click-game/assets/images/donkey_kong.jpg",
         "name":"Donkey Kong"
     },
     {
         "id": 7,
-        "image":"/assets/images/dry_bones.jpg",
+        "image":"/click-game/assets/images/dry_bones.jpg",
         "name":"Dry Bones"
     },
     {
         "id": 8,
-        "image":"/assets/images/Goomba.jpg",
+        "image":"/click-game/assets/images/Goomba.jpg",
         "name":"Goomba"
     },
     {
         "id": 9,
-        "image":"/assets/images/luigi.jpg",
+        "image":"/click-game/assets/images/luigi.jpg",
         "name":"Luigi"
     },
     {
         "id": 10,
-        "image":"/assets/images/mario.jpg",
+        "image":"/click-game/assets/images/mario.jpg",
         "name":"Mario"
     },
     {
         "id": 11,
-        "image":"/assets/images/Princess_Peach.jpg",
+        "image":"/click-game/assets/images/Princess_Peach.jpg",
         "name":"Princess Peach"
     },
     {
         "id": 12,
-        "image":"/assets/images/Toad.jpg",
+        "image":"/click-game/assets/images/Toad.jpg",
         "name":"Toad"
     },
     {
         "id": 13,
-        "image":"/assets/images/waluigi.jpg",
+        "image":"/click-game/assets/images/waluigi.jpg",
         "name":"Waluigi"
     },
     {
         "id": 14,
-        "image":"/assets/images/Wario.jpg",
+        "image":"/click-game/assets/images/Wario.jpg",
         "name":"Wario"
     },
     {
         "id": 15,
-        "image":"/assets/images/yoshi.jpg",
+        "image":"/click-game/assets/images/yoshi.jpg",
         "name":"Yoshi"
     }
 
