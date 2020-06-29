@@ -1,0 +1,12 @@
+.card {
+    background-color: rgb(251, 208, 0);
+    margin-top: 20px;
+    
+}
+img {
+    height: 200px;
+}
+
+.card-title {
+    text-align: center;
+}
