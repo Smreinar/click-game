@@ -36,7 +36,7 @@ class App extends Component{
       showWin:0
     });
 
-    //if clickedCharacter doesnt have the id of the image that is clicked then..
+    //if clickedCharacter does'nt have the id of the image that is clicked then..
     if(clickedCharacter.indexOf(id)===-1){
       //call handleIncrement to up the score by 1
       this.handleIncrement();
@@ -58,7 +58,7 @@ class App extends Component{
         clickedCharacter: []
       });
     }
-    //else the image is already clicked and then reset the game and showLose valule set to '1'
+    //else the image is already clicked and then reset the game and showLose value set to '1'
     else{
       this.setState({
         score:0,
@@ -69,7 +69,7 @@ class App extends Component{
       })
     }
     //if score is higher than the current highscore
-    if(score > highScore){
+    if(score >= highScore){
       //set the value of score as the new hishScore
       this.setState({
         highScore: score
