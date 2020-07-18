@@ -38,7 +38,7 @@ from here you should be free to run the following command to run local
 ---
 
 ## Code Snippets
-images
+![clickgame-cards-render](https://user-images.githubusercontent.com/57015344/87860067-2fa06080-c8ef-11ea-8568-eaa9e288242b.png)
 
 ---
 
