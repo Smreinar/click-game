@@ -38,6 +38,7 @@ from here you should be free to run the following command to run local
 ---
 
 ## Code Snippets
+
 card render
 ![clickgame-cards-render](https://user-images.githubusercontent.com/57015344/87860067-2fa06080-c8ef-11ea-8568-eaa9e288242b.png)
 
@@ -45,6 +46,7 @@ card component
 ![clickgame-card-component](https://user-images.githubusercontent.com/57015344/87860105-860d9f00-c8ef-11ea-93d4-7465b3b0675b.png)
 
 fisher-yates shuffle
+![clickgame-fisher-yates-shuffle](https://user-images.githubusercontent.com/57015344/87860106-87d76280-c8ef-11ea-9d55-809a11c6baad.png)
 
 
 ---
