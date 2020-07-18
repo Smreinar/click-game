@@ -31,6 +31,7 @@ from here you should be free to run the following command to run local
 ## Technologies 
 - HTML5
 - Bootstrap
+- Javascript
 - CSS
 - node.js
 - - react.js
