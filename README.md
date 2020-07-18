@@ -28,8 +28,17 @@ from here you should be free to run the following command to run local
 
 ---
 
-## Usage
-    imgages/tech
+## Technologies 
+- HTML5
+- Bootstrap
+- CSS
+- node.js
+- - react.js
+
+---
+
+## Code Snippets
+images
 
 ---
 
