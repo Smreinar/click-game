@@ -6,6 +6,8 @@ In this app you will be presented by 15 super mario characters and you will have
 once and only once. With each character that you click for the first time your score will go up by 1 and if you click on
 a image more than once then the game will reset. Try and get all 15 characters with no double clicks! Good luck and Have Fun!
 
+[Live App](https://github.com/Smreinar/click-game/tree/code)
+
 ---
 
 ## Installation
